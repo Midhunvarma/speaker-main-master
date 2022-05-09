@@ -66,7 +66,7 @@ export default function Footer() {
               </a>
             </span>
             <span>
-              <a href="https://www.linkedin.com/in/">
+              <a href="https://www.linkedin.com/">
                 <BsLinkedin />
               </a>{" "}
             </span>
